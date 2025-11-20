@@ -53,7 +53,7 @@ I'm a developer passionate about **DevOps**, **Systems Programming**, and **Auto
 <div align="center">
   <a href="https://github.com/MichaelFisher1997">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelFisher1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelFisher1997&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelFisher1997&layout=compact&theme=tokyonight&hide=javascript"/>
   </a>
 </div>
 
