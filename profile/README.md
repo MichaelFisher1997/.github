@@ -74,7 +74,7 @@ Here are a few repositories I've been working on:
 | [**GO-Blockchain-Concepts**](https://github.com/MichaelFisher1997/GO-Blockchain-Concepts) | University project exploring Blockchain concepts | Go |
 | [**Go-Reddit-REST-api**](https://github.com/MichaelFisher1997/Go-Reddit-REST-api) | A REST API for a Reddit clone | Go |
 | [**nixos**](https://github.com/MichaelFisher1997/nixos) | My NixOS configuration files | Nix |
-| [**transgo**](https://github.com/MichaelFisher1997/transgo) | Translation tool in Go | Go |
+| [**transgo**](https://github.com/MichaelFisher1997/transgo) | Transcode AV1 tool in Go | Go |
 
 <p align="center">
   <i>Let's connect and build something amazing!</i>
